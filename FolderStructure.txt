@@ -1,0 +1,6 @@
+project/
+│── NumberPlateRecognition.py
+│── anpr_best.pt
+│── requirements.txt
+│── videos/
+│     └── view.mp4
